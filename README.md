@@ -1,1 +1,1 @@
-# Machine-Learning-Algorithm-for-Analyzing-Urban-Sprawl-Expansion
+# Machine Learning Algorithm for Analyzing The Urban Sprawl Expansion
